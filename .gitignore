@@ -1,7 +1,12 @@
+*.un~
 *jar
+*~
+.*.s[a-w][a-z]
 .lein-deps-sum
+.netrwhist
 /classes/
 /lib/
 /targets/
 Leiningen.gitignore
+Session.vim
 pom.xml
