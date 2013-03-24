@@ -1,0 +1,7 @@
+*jar
+.lein-deps-sum
+/classes/
+/lib/
+/targets/
+Leiningen.gitignore
+pom.xml
