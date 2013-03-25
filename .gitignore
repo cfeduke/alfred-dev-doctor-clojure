@@ -10,3 +10,5 @@
 Leiningen.gitignore
 Session.vim
 pom.xml
+output/
+target/
