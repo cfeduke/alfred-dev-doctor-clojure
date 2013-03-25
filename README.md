@@ -4,7 +4,14 @@ Builds the `data.clojure.json` file into `output` using the [Clojure API index f
 
 ## Usage
 
-TODO
+As of now, in a REPL:
+
+    (use 'alfred-doc-doctor-clojure)
+    (alfred-dev-doctor-clojure.core/-main)
+
+This will create a `output/data.clojure.json` file which can then be copied to:
+
+    ~/Library/Application Support/Alfred 2/Alfred.alfredpreferences/workflows/$ALFRED_DEV_DOCTOR/parsers/autosuggest/data/
 
 ## License
 
